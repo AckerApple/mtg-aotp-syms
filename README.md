@@ -1,7 +1,7 @@
 # mtg-aotp-syms
 An iconic font and CSS toolkit for Magic The Gathering's Arena of the Planeswalkers
 
-Looking for mtg original symbols? [tap here](https://github.com/AlexandreArpin/mtg-font)
+? Looking for mtg original symbols ? [tap here](https://github.com/AlexandreArpin/mtg-font)
 
 ## HTML INIT
     <link href="css/mtg-aotp-syms.css" type="text/css" rel="stylesheet" />
