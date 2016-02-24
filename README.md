@@ -6,6 +6,8 @@ An iconic font and CSS toolkit for Magic The Gathering's Arena of the Planeswalk
 ## HTML INIT
     <link href="css/mtg-aotp-syms.css" type="text/css" rel="stylesheet" />
 
+[HTML Example](https://ackerapple.github.io/mtg-aotp-syms/)
+
 ## Goals
 
 The aim of this project is to generate scalable and customizable symbols for Magic The Gathering's Arena of the Planeswalkers with very little HTML and that is also familiar to that of the [Font Awesome](https://fortawesome.github.io/Font-Awesome/) syntax.
