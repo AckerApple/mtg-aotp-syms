@@ -1,0 +1,30 @@
+{
+  "name": "mtg-aotp-syms",
+  "version": "1.0.0",
+  "description": "Magic The Gathering's Arena of the Planeswalkers font",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AckerApple/mtg-aotp-syms.git"
+  },
+  "keywords": [
+    "magic",
+    "the",
+    "gathering",
+    "arena",
+    "of",
+    "the",
+    "planeswalkers",
+    "mtg",
+    "aotp"
+  ],
+  "author": "Acker Apple",
+  "license": "na",
+  "bugs": {
+    "url": "https://github.com/AckerApple/mtg-aotp-syms/issues"
+  },
+  "homepage": "https://github.com/AckerApple/mtg-aotp-syms"
+}
